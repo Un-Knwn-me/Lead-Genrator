@@ -10,7 +10,7 @@ import MailConfirm from './components/MailConfirm';
 import Email from './components/Email';
 
 
-export const URL = "http://localhost:12000"
+export const URL = "https://lead-genrator.onrender.com/"
 
 function App() {
   return (
